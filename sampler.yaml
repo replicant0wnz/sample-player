@@ -1,0 +1,10 @@
+samples:
+  - name: drone-regular-bm
+    description: Tenor and Bass in Bm
+    note: 60
+    file: /home/replicant/Music/Drone-Regular.wav
+  - name: drone-contra-bm
+    description: Contra Bass in Bm
+    note: 62
+    file: /home/replicant/Music/Drone-Contra.wav
+device: Logidy UMI3:Logidy UMI3 MIDI 1 20:0
